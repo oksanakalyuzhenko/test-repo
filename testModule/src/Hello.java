@@ -5,5 +5,6 @@ public class Hello {
 
     public void testHello(){
         System.out.println("Hello world!");
+        System.out.println("!!!");
     }
 }
